@@ -1,0 +1,15 @@
+.card {
+  border: 1px solid #eee;
+}
+.product {
+  border: 1px solid #eee;
+}
+.thumbnail > img {
+  border: 2px solid #eee;
+}
+
+.seller_info {
+  border: 2px solid #eee;
+  border-radius: 3px;
+  height: fit-content;
+}
